@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import calculatorImg from "../../react-intro-class/calculator.png";
+import calculatorImg from "../../calculator.png";
 
 class Calculator extends Component{
     constructor(){

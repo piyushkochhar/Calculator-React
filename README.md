@@ -14,10 +14,9 @@ Requirements:
 
 To run the app locally:
 
-    git clone https://github.com/piyushkochhar/Calculator-React.git
+    git clone https://github.com/piyushkochhar/calculator-react.git
 
- - cd Calculator-React 
- - npm run setup 
- - npm run dev 
+ - cd calculator-react 
+ - npm install 
  - open  http://localhost:8080
 
